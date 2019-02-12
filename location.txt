@@ -1,0 +1,7 @@
+Location--cd /d c:\Users\username\Desktop\extrain
+
+Compile--- elixirc main.ex
+
+select module-- l(Elixir.Asdf)
+
+mix phx.gen.json Management Project projects :string description :text
